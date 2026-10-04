@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: mazensopih5-cyber/alkiroungroup-site
   branch: main
+  base_url: https://sveltia-cms-auth.mazensopih5.workers.dev
 media_folder: assets/uploads
 public_folder: /assets/uploads
 collections:
