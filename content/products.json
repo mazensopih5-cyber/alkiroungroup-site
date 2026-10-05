@@ -1,3 +1,16 @@
 {
-  "items": []
+  "items": [
+    {
+      "name_ar": "فايرال إف إكس",
+      "name_en": "ViralFX™",
+      "category_ar": "..",
+      "category_en": "..",
+      "image": "/assets/uploads/viralfx-logo-v1.png",
+      "gallery": [
+        {
+          "image": "/assets/uploads/images.jfif"
+        }
+      ]
+    }
+  ]
 }
