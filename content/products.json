@@ -1,13 +1,3 @@
 {
-  "items": [
-    {
-      "name_ar": " فايرال إف إكس",
-      "name_en": "ViralFX™",
-      "category_ar": "مطهرات",
-      "category_en": "Disinfectants",
-      "desc_ar": "وصف قصير للمنتج.",
-      "desc_en": "Short product description.",
-      "image": ""
-    }
-  ]
+  "items": []
 }
