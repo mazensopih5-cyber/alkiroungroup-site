@@ -8,15 +8,6 @@
       "desc_ar": "وصف قصير للمنتج.",
       "desc_en": "Short product description.",
       "image": "/assets/uploads/images-1-.jfif"
-    },
-    {
-      "name_ar": "منتج تجريبي ٢",
-      "name_en": "Sample product 2",
-      "category_ar": "إضافات أعلاف",
-      "category_en": "Feed additives",
-      "desc_ar": "وصف قصير للمنتج.",
-      "desc_en": "Short product description.",
-      "image": ""
     }
   ]
 }
