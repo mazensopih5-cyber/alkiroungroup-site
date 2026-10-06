@@ -8,10 +8,14 @@
       "image": "/assets/uploads/images.jfif",
       "gallery": [
         {
-          "image": "/assets/uploads/90333507_2893147834094753_8884360501425864704_n.jpg"
+          "image": "/assets/uploads/90333507_2893147834094753_8884360501425864704_n.jpg",
+          "caption_ar": "..",
+          "caption_en": ".."
         },
         {
-          "image": "/assets/uploads/images.png"
+          "image": "/assets/uploads/images.png",
+          "caption_ar": "..",
+          "caption_en": ".."
         }
       ]
     }
